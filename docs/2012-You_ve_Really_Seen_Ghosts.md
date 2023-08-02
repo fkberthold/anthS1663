@@ -41,3 +41,4 @@ Associated File Name:  Kikuchi_Shibata-2012-Iwata Asks_Project Zero 2 Wii Editio
 
 ---
 #### Links
+1. [[Bibliography_Collection_Fatal Frame]]

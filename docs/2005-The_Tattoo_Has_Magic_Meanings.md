@@ -1,8 +1,8 @@
 Created: 2023-07-31 16:21
-Tags: 
+Tags:  [[legends]]
 
 ### Title:  The Tattoo Has Magic Meanings
-### Folklore Type:  legend / folkloresque
+### Folklore Type:  legend
 
 ### Contents:
 "In this title, the tattoo is the key in respect to both the story and visual imagery. First, let me talk about Japanese tattoos. Tattoos -- the small ones -- became a fashion item and became accepted by people. However, the traditional Japanese type of tattoo sometimes covered all of your back or even all of your body. The tattoo has magic meanings such that the drawing gives power to the tattooed person. It is a kind of animism and is mysterious."

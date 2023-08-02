@@ -1,13 +1,13 @@
 Created: 2023-07-28 16:36
-Tags: 
+Tags:  [[memorates]], [[dreams]]
 
 ### Title:  Recreate This Fear
-### Folklore Type:
+### Folklore Type:  memorate
 
 ### Contents:
-"**What makes this the scariest Project Zero game so far?** 
+"\[Stuart] **What makes this the scariest Project Zero game so far?** 
 
-I believe that our method to invoke the fear in the player's own imagination maximizes the recipient's fear. We do not simply show scary things, but provide fragmental information and create a situation that forces the player to imagine these horrors. This is scarier. I personally call it, 'Subtracting horror.'
+\[Shibata] I believe that our method to invoke the fear in the player's own imagination maximizes the recipient's fear. We do not simply show scary things, but provide fragmental information and create a situation that forces the player to imagine these horrors. This is scarier. I personally call it, 'Subtracting horror.'
 
 I'm assuming that other horror game creators base their games on films or novels. However, in my case, I created the audio and the visuals based on my personal ghost experience and nightmares. I try to recreate this fear when people play my games. I think that this fact makes Project Zero 3 the scariest game."
 
@@ -35,5 +35,3 @@ Associated File Name:  Stuart-2006-I Call It subtracting Horror.pdf
 3. [[2006-Major_Influences_the_Team_Has_Drawn_On]]
 4. [[2006-Dream_Buyer_and_Baku]]
 5. [[2006-Researched_a_lot_About_Ancient_Japanese_Culture]]
-6. [[2013-Recreating_That_Uncountable_Feeling]]
-7. [[2023-Actually_Inspired_by_Spirits]]

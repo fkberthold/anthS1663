@@ -3,17 +3,14 @@ Tags:
 
 Argüello, Diego Nicolás. "What Scares Horror Game Developers: The Haunting Craft of Making Scary Games." _Game Informer_. July 4, 2023.  https://www.gameinformer.com/feature/2023/07/04/what-scares-horror-game-developers.
 
-#none #inspiration
 Fukaya, Yutaka and Makoto Shibata. "Interview: Talking About Fatal Frame: Mask of the Lunar Eclipse Ghosts and Future Games." By Jenni Lada. _Siliconera_. February 9, 2023.  https://www.siliconera.com/interview-talking-about-fatal-frame-mask-of-the-lunar-eclipse-ghosts-and-future-games/.
 
 Fukaya, Yutaka and Makoto Shibata. "The Passion Behind Fatal Frame: Interview with Director Makoto Shibata and Producer Yutaka Fuyaka." By Justin Wood. _DreadXP_. February 13, 2023.  https://www.dreadxp.com/interview/the-passion-behind-fatal-frame-interview-with-director-makoto-shibata-and-producer-yutaka-fuyaka/.
 
-#none 
 Fukaya, Yutaka and Makoto Shibata. "[Interview] Koei Tecmo on Fatal Frame: Mask of the Lunar Eclipse - Decision to Remaster, Updating the Graphics, More." By Brian (@NE_Brian). _Nintendo Everything_. February 19, 2023.  https://nintendoeverything.com/fatal-frame-mask-of-the-lunar-eclipse-interview-koei-tecmo/.
 
 Inada, John, Keisuke Kikuchi, and Makoto Shibata. "_Fatal Frame III: The Tormented_ Interview." By Christian Nutt. _GameSpy_. August 22, 2005.  http://ps2.gamespy.com/playstation-2/fatal-frame-3/644109p1.html
 
-#none 
 Kikuchi, Keisuke, Tozhiharu Izuno, and Kozo Makino. "Iwata Asks: Spirit Camera: The Cursed Memoir." By Satoru Iwata. _Nintendo UK_. December 2011.   https://www.nintendo.co.uk/Iwata-Asks/Iwata-Asks-Spirit-Camera-The-Cursed-Memoir/Iwata-Asks-Spirit-Camera-The-Cursed-Memoir/1-Imagination-is-the-Scariest-Thing/1-Imagination-is-the-Scariest-Thing-225378.html
 
 Kikuchi, Keisuke and Makoto Shibata. "Iwata Asks: _Project Zero 2_: Wii Edition." By Satoru Iwata. _Nintendo UK_. April 4, 2012.   https://www.nintendo.co.uk/Iwata-Asks/Iwata-Asks-Project-Zero-2-Wii-Edition/Iwata-Asks-Project-Zero-2-Wii-Edition/1-The-Worst-Happy-Ending-Imaginable/1-The-Worst-Happy-Ending-Imaginable-218277.html
@@ -24,7 +21,6 @@ Kikuchi, Keisuke and Makoto Shibata. "_Fatal Frame_ Interview - Scaring You in S
 
 Shibata, Makoto. "_Fatal Frame III:_ Dev Diary \#1." _GameSpy_. October 14, 2005.  http://ps2.gamespy.com/playstation-2/fatal-frame-3/657985p1.html.
 
-#none
 Shibata, Makoto. "_Fatal Frame III:_ Dev Diary \#2." _GameSpy_. October 20, 2005.  http://ps2.gamespy.com/playstation-2/fatal-frame-3/660004p1.html.
 
 Shibata, Makoto. "_Fatal Frame III:_ Dev Diary \#3." _GameSpy_. October 28, 2005.  http://ps2.gamespy.com/playstation-2/fatal-frame-3/662607p1.html.

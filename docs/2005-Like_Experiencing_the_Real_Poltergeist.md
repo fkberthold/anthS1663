@@ -1,8 +1,8 @@
 Created: 2023-07-31 16:02
-Tags: 
+Tags:  [[memorates]], [[dreams]]
 
 ### Title:  Like Experiencing the Real Poltergeist
-### Folklore Type:
+### Folklore Type:   memorate
 
 ### Contents:
 "The _Fatal Frame_ series is inspired by my own nightmares. It's the worst nightmare imaginable.  

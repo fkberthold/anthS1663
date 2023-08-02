@@ -1,14 +1,14 @@
 Created: 2023-07-28 16:41
-Tags: 
+Tags: [[memorates]]
 
 ### Title:  Ghost Who Had a Damaged Face
 ### Folklore Type:  memorate
 
 ### Contents:
-"**Have you ever seen a ghost? If so, what would your advice be to anyone who encounters one?** 
+"\[Stuart] **Have you ever seen a ghost? If so, what would your advice be to anyone who encounters one?** 
 
-Yes, of course I have. However, I can give no advice. I myself am really scared every time I see one, and you cannot predict when you will have an encounter. I once saw a ghost who had a damaged face and I couldn't figure out if it was a he or a she. I was kind of panicked and pretended that I was dead."
-
+\[Shibata] Yes, of course I have. However, I can give no advice. I myself am really scared every time I see one, and you cannot predict when you will have an encounter. I once saw a ghost who had a damaged face and I couldn't figure out if it was a he or a she. I was kind of panicked and pretended that I was dead."
+ 
 ### Context:
 In this interview excerpt, Shibata describes a paranormal encounter he had in childhood.
 
@@ -34,4 +34,3 @@ Associated File Name:  Stuart-2006-I Call It subtracting Horror.pdf
 4. [[2006-Dream_Buyer_and_Baku]]
 5. [[2006-Researched_a_lot_About_Ancient_Japanese_Culture]]
 6. [[2006-Recreate_This_Fear]]
-7. 

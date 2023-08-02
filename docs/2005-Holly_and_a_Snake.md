@@ -1,5 +1,5 @@
 Created: 2023-07-31 16:45
-Tags: 
+Tags:  [[legends]], [[folkloresque]]
 
 ### Title:  Holly and a Snake
 ### Folklore Type:  legend / folkloresque

@@ -1,5 +1,5 @@
 Created: 2023-07-28 16:04
-Tags: 
+Tags:  [[legends]]
 
 ### Title:  Condensed Essence of Japanese Horror
 ### Folklore Type:

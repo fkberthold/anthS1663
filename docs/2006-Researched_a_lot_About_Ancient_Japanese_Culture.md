@@ -1,13 +1,13 @@
 Created: 2023-07-28 16:27
-Tags: 
+Tags:  [[legends]], [[folkloresque]]
 
 ### Title:  Researched a lot About Ancient Japanese Culture
-### Folklore Type:
+### Folklore Type:  legend / folkloresque
 
 ### Contents:
-"**The series stakes a serious claim to the title of 'scariest games ever made.' How do you go about ensuring that you keep the shocks coming, even for fans that have played through the previous titles?**"
+"\[Stuart] **The series stakes a serious claim to the title of 'scariest games ever made.' How do you go about ensuring that you keep the shocks coming, even for fans that have played through the previous titles?**"
 
-"In overview, with this title we have managed to create the deepest theme of the entire Project Zero series. We researched a lot about ancient Japanese culture and referred to a lot of literature with key words such as, tattoo, sleep, dream, suffer, lullaby, sacrifice, doll, and snow. The more we researched, the more we became scared and attracted (and dazzled) by these subjects. We also researched the meanings of the keywords from a folklore point of view, and all the interesting ideas we unearthed were inserted into the game.
+\[Shibata] In overview, with this title we have managed to create the deepest theme of the entire Project Zero series. We researched a lot about ancient Japanese culture and referred to a lot of literature with key words such as, tattoo, sleep, dream, suffer, lullaby, sacrifice, doll, and snow. The more we researched, the more we became scared and attracted (and dazzled) by these subjects. We also researched the meanings of the keywords from a folklore point of view, and all the interesting ideas we unearthed were inserted into the game.
 
 I believe that the game gives players a real image of life and death in Japanese culture. I hope, as director of the game, that the players complete it and touch upon the deep themes I worked into PZ3. The overall impression might be a very personal one of mine, but I believe it contains something universal."
 

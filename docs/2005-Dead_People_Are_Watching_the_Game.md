@@ -1,5 +1,5 @@
 Created: 2023-07-31 17:09
-Tags: 
+Tags:  [[memorates]]
 
 ### Title:  Dead People Are Watching the Game
 ### Folklore Type:  memorate

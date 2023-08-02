@@ -1,15 +1,15 @@
 Created: 2023-07-28 16:16
-Tags: 
+Tags:  [[legends]], [[folkloresque]]
 
 ### Title:  Dream Buyer and Baku
-### Folklore Type:  memorate / folkloresque
+### Folklore Type:  legend / folkloresque
 
 ### Contents:
-"**What exactly is the 'Manor Of Sleep' and how does it tie in with the mysterious tattoo on Rei's body?**
+"\[Stuart] **What exactly is the 'Manor Of Sleep' and how does it tie in with the mysterious tattoo on Rei's body?**
 
-_(Spoiler alert!)_ In ancient Japan, people believed that dreams had special meanings. There was a custom concerning a character called the Dream Buyer, who was said to buy and sell good dreams. There was also an imaginary creature called Baku, and people believed that Baku ate nightmares. Baku is enshrined in some temples in Japan.
+\[Shibata] _(Spoiler alert!)_ In ancient Japan, people believed that dreams had special meanings. There was a custom concerning a character called the Dream Buyer, who was said to buy and sell good dreams. There was also an imaginary creature called Baku, and people believed that Baku ate nightmares. Baku is enshrined in some temples in Japan.
 
-In the context of PZ3, the Manor of Sleep used to be a shrine that people used in ceremonies relating to a particular nightmare. This nightmare had a specific form. People who had lost someone close to them were beckoned by the departed through their dreams. If they followed the deceased, they would not wake up anymore.
+In the context of PZ3 \[_Project Zero 3_], the Manor of Sleep used to be a shrine that people used in ceremonies relating to a particular nightmare. This nightmare had a specific form. People who had lost someone close to them were beckoned by the departed through their dreams. If they followed the deceased, they would not wake up anymore.
 
 To combat the nightmare, it received a 'dedication' at the shrine. In other words, people dedicated the pain that they felt at the loss of their loved one to the shrine. However, the way they ritualised this nightmare was very special. They mixed the blood of surviving people and their dead relatives, and they put a tattoo on a Priestess's skin using the blood as paint.
 
@@ -21,6 +21,7 @@ In the present day, Rei visits the shrine in her job and from this moment on, sh
 In this interview excerpt, Shibata discusses Japanese legends that ties to one of the major plot points and locations in _Fatal Frame: The Tormented_.  The game takes place primarily in dreams, and the legends Shibata draws on are related to the topic of dreams.
 
 This excerpt is taken from a Q&A released by _Take Two_ which Stuart then edited and copied into an article he posted on _The Guardian_.  This was published ahead of the release of _Fatal Frame: The Tormented_, the third game in the _Fatal Frame_ series.
+
 
 ----
 #### Source Information
