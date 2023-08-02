@@ -18,6 +18,7 @@ This excerpt is taken from a series of blog posts, called "Developer Diaries" wr
 ##### Original Source Citation:
 Shibata, Makoto. "_Fatal Frame III:_ Dev Diary \#3." _GameSpy_. October 28, 2005.  http://ps2.gamespy.com/playstation-2/fatal-frame-3/662607p1.html.
 
+|  |  |
 | ---- | ---- |
 | **Source Type** | blog |
 | **Source URL** |  http://ps2.gamespy.com/playstation-2/fatal-frame-3/662607p2.html |
