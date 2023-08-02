@@ -17,14 +17,19 @@ This excerpt is taken from a series of blog posts, called "Developer Diaries" wr
 
 ----
 #### Source Information
-Original Source Citation:
+##### Original Source Citation:
 	Shibata, Makoto. "_Fatal Frame III:_ Dev Diary \#4." _GameSpy_. November 4, 2005.  http://ps2.gamespy.com/playstation-2/fatal-frame-3/664167p1.html.
 
-Source Type:  blog
-Source URL:  http://ps2.gamespy.com/playstation-2/fatal-frame-3/664167p3.html
-Date Published:  2005-11-04
-Date Collected:  2023-07-31
-Associated File Name:  Shibata_Fatal Frame III Dev Diary 3_Part 2.pdf
+Source Type
+: blog
+Source URL
+: http://ps2.gamespy.com/playstation-2/fatal-frame-3/664167p3.html
+Date Published
+: 2005-11-04
+Date Collected
+: 2023-07-31
+Associated File Name
+: Shibata_Fatal Frame III Dev Diary 3_Part 2.pdf
 
 ---
 #### Links
