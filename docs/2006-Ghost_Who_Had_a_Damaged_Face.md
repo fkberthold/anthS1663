@@ -1,15 +1,15 @@
 Created: 2023-07-28 16:41
-Tags: [[memorates]]
+Tags:
 
 ### Title:  Ghost Who Had a Damaged Face
-### Folklore Type:  memorate
+### Folklore Type:  [[memorate]]
 
-### Contents:
+#### Contents:
 "\[Stuart] **Have you ever seen a ghost? If so, what would your advice be to anyone who encounters one?** 
 
 \[Shibata] Yes, of course I have. However, I can give no advice. I myself am really scared every time I see one, and you cannot predict when you will have an encounter. I once saw a ghost who had a damaged face and I couldn't figure out if it was a he or a she. I was kind of panicked and pretended that I was dead."
  
-### Context:
+#### Context:
 In this interview excerpt, Shibata describes a paranormal encounter he had in childhood.
 
 This excerpt is taken from a Q&A released by _Take Two_ which Stuart then edited and copied into an article he posted on _The Guardian_.  This was published ahead of the release of _Fatal Frame: The Tormented_, the third game in the _Fatal Frame_ series.
@@ -17,9 +17,11 @@ This excerpt is taken from a Q&A released by _Take Two_ which Stuart then edited
 
 ----
 #### Source Information
-Original Source Citation:
+**Original Source Citation:**
 	Stuart, Keith. "'I call it, 'Subtracting horror.'' Project Zero Creator Speaks..." _The Guardian_. February 7, 2006.  https://www.theguardian.com/technology/gamesblog/2006/feb/07/post13
 
+| | |
+| --- | --- |
 Source Type:  interview
 Source URL:  https://www.theguardian.com/technology/gamesblog/2006/feb/07/post13
 Date Published:  2006-02-07

@@ -1,5 +1,5 @@
 Basic info for catalog here
 
 
-* [[Appendix]]
-* [[Bibliography_Collection_Fatal Frame]]
+1. [[Appendix]]
+2. [[Bibliography_Collection_Fatal Frame]]

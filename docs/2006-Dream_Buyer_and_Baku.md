@@ -1,10 +1,10 @@
 Created: 2023-07-28 16:16
-Tags:  [[legends]], [[folkloresque]]
+Tags:
 
 ### Title:  Dream Buyer and Baku
-### Folklore Type:  legend / folkloresque
+### Folklore Type:  [[legend]], [[folkloresque]]
 
-### Contents:
+#### Contents:
 "\[Stuart] **What exactly is the 'Manor Of Sleep' and how does it tie in with the mysterious tattoo on Rei's body?**
 
 \[Shibata] _(Spoiler alert!)_ In ancient Japan, people believed that dreams had special meanings. There was a custom concerning a character called the Dream Buyer, who was said to buy and sell good dreams. There was also an imaginary creature called Baku, and people believed that Baku ate nightmares. Baku is enshrined in some temples in Japan.
@@ -17,7 +17,7 @@ I won't go into too much detail, but there was an accident in the shrine. The pe
 
 In the present day, Rei visits the shrine in her job and from this moment on, she is called to the Manor in her dreams. The Manor is ruled by a priestess who is tattooed all over her body. People who are touched by her will wake up to find a tattoo on their body that expands every time they wake up. Suffering causes the tattoo to expand on the skin. This is the curse, and once the tattoo covers their eyes, they don't come back. At the same time, the tattoo is also a message. The 'victim' receives a vision when the tattoo reaches their eyes. Ironically, the vision is the key to solve the curse, but it's a revelation that arrives far too late."
 
-### Context:
+#### Context:
 In this interview excerpt, Shibata discusses Japanese legends that ties to one of the major plot points and locations in _Fatal Frame: The Tormented_.  The game takes place primarily in dreams, and the legends Shibata draws on are related to the topic of dreams.
 
 This excerpt is taken from a Q&A released by _Take Two_ which Stuart then edited and copied into an article he posted on _The Guardian_.  This was published ahead of the release of _Fatal Frame: The Tormented_, the third game in the _Fatal Frame_ series.
@@ -25,9 +25,11 @@ This excerpt is taken from a Q&A released by _Take Two_ which Stuart then edited
 
 ----
 #### Source Information
-Original Source Citation:
+**Original Source Citation:**
 	Stuart, Keith. "'I call it, 'Subtracting horror.'' Project Zero Creator Speaks..." _The Guardian_. February 7, 2006.  https://www.theguardian.com/technology/gamesblog/2006/feb/07/post13
 
+| | |
+| --- | --- |
 Source Type:  interview
 Source URL:  https://www.theguardian.com/technology/gamesblog/2006/feb/07/post13
 Date Published:  2006-02-07
