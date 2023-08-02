@@ -1,7 +1,7 @@
 site_name: ANTH S-1663
 
 theme:
-    name: 'Bootstrap386'
+    name: 'material'
     palette:
 
     # Light mode
