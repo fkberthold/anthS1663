@@ -1,4 +1,6 @@
-# "Recreating That \[Unaccountable] Feeling:" The Folklore & Folkloresque of _Fatal Frame_
+# Introduction
+
+## "Recreating That \[Unaccountable] Feeling:" The Folklore & Folkloresque of _Fatal Frame_
 
 For my final project for ANTH S-1663, I chose to focus on one of my personal academic passions: digital worlds, or more specifically, the cultures/communities and folklore that emerges from digital worlds.  As the topic of this class focused on supernatural folklore, I chose to focus on the world created in the _Fatal Frame_ series.
 
