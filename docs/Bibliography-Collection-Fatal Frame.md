@@ -7,13 +7,13 @@ Fukaya, Yutaka and Makoto Shibata. "Interview: Talking About Fatal Frame: Mask o
 
 Fukaya, Yutaka and Makoto Shibata. "The Passion Behind Fatal Frame: Interview with Director Makoto Shibata and Producer Yutaka Fuyaka." By Justin Wood. _DreadXP_. February 13, 2023.  https://www.dreadxp.com/interview/the-passion-behind-fatal-frame-interview-with-director-makoto-shibata-and-producer-yutaka-fuyaka/.
 
-Fukaya, Yutaka and Makoto Shibata. "[Interview] Koei Tecmo on Fatal Frame: Mask of the Lunar Eclipse - Decision to Remaster, Updating the Graphics, More." By Brian (@NE_Brian). _Nintendo Everything_. February 19, 2023.  https://nintendoeverything.com/fatal-frame-mask-of-the-lunar-eclipse-interview-koei-tecmo/.
+Fukaya, Yutaka and Makoto Shibata. "\[Interview] Koei Tecmo on Fatal Frame: Mask of the Lunar Eclipse - Decision to Remaster, Updating the Graphics, More." By Brian (@NE_Brian). _Nintendo Everything_. February 19, 2023.  https://nintendoeverything.com/fatal-frame-mask-of-the-lunar-eclipse-interview-koei-tecmo/.
 
-Inada, John, Keisuke Kikuchi, and Makoto Shibata. "_Fatal Frame III: The Tormented_ Interview." By Christian Nutt. _GameSpy_. August 22, 2005.  http://ps2.gamespy.com/playstation-2/fatal-frame-3/644109p1.html
+Inada, John, Keisuke Kikuchi, and Makoto Shibata. "_Fatal Frame III: The Tormented_ Interview." By Christian Nutt. _GameSpy_. August 22, 2005.  http://ps2.gamespy.com/playstation-2/fatal-frame-3/644109p1.html.
 
-Kikuchi, Keisuke, Tozhiharu Izuno, and Kozo Makino. "Iwata Asks: Spirit Camera: The Cursed Memoir." By Satoru Iwata. _Nintendo UK_. December 2011.   https://www.nintendo.co.uk/Iwata-Asks/Iwata-Asks-Spirit-Camera-The-Cursed-Memoir/Iwata-Asks-Spirit-Camera-The-Cursed-Memoir/1-Imagination-is-the-Scariest-Thing/1-Imagination-is-the-Scariest-Thing-225378.html
+Kikuchi, Keisuke, Tozhiharu Izuno, and Kozo Makino. "Iwata Asks: Spirit Camera: The Cursed Memoir." By Satoru Iwata. _Nintendo UK_. December 2011.   https://www.nintendo.co.uk/Iwata-Asks/Iwata-Asks-Spirit-Camera-The-Cursed-Memoir/Iwata-Asks-Spirit-Camera-The-Cursed-Memoir/1-Imagination-is-the-Scariest-Thing/1-Imagination-is-the-Scariest-Thing-225378.html.
 
-Kikuchi, Keisuke and Makoto Shibata. "Iwata Asks: _Project Zero 2_: Wii Edition." By Satoru Iwata. _Nintendo UK_. April 4, 2012.   https://www.nintendo.co.uk/Iwata-Asks/Iwata-Asks-Project-Zero-2-Wii-Edition/Iwata-Asks-Project-Zero-2-Wii-Edition/1-The-Worst-Happy-Ending-Imaginable/1-The-Worst-Happy-Ending-Imaginable-218277.html
+Kikuchi, Keisuke and Makoto Shibata. "Iwata Asks: _Project Zero 2_: Wii Edition." By Satoru Iwata. _Nintendo UK_. April 4, 2012.   https://www.nintendo.co.uk/Iwata-Asks/Iwata-Asks-Project-Zero-2-Wii-Edition/Iwata-Asks-Project-Zero-2-Wii-Edition/1-The-Worst-Happy-Ending-Imaginable/1-The-Worst-Happy-Ending-Imaginable-218277.html.
 
 Kikuchi, Keisuke and Makoto Shibata. "Talking Terror with _Fatal Frame_ Creators Keisuke Kikuchi and Makoto Shibata." By Francis DiPersio. _Hey PoorPlayer_. October 22, 2021.  https://www.heypoorplayer.com/2021/10/22/talking-terror-with-fatal-frame-creators-keisuke-kikuchi-and-director-makoto-shibata/.
 
@@ -37,4 +37,4 @@ Shibata, Makoto. "Interview with: Makoto Shibata about _Fatal Frame: Maiden of B
 
 Shibata, Makoto. "The Real-Life Hauntings that Inspired Fata Frame: Mask of the Lunar Eclipse." _Xbox Wire_. March 9, 2023. https://news.xbox.com/en-us/2023/03/09/fatal-frame-mask-lunar-eclipse-ghost-stories-real-life/.
 
-Stuart, Keith. "'I call it, 'Subtracting horror.'' Project Zero Creator Speaks..." _The Guardian_. February 7, 2006.  https://www.theguardian.com/technology/gamesblog/2006/feb/07/post13
+Stuart, Keith. "'I call it, 'Subtracting horror.'' Project Zero Creator Speaks..." _The Guardian_. February 7, 2006.  https://www.theguardian.com/technology/gamesblog/2006/feb/07/post13.

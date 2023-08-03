@@ -10,7 +10,7 @@ Tags:
 There is another important factor. I personally have experienced poltergeists since I was young. I can't forget what I saw and heard during those encounters. The way the ghosts look and sound in the game is an accurate portrayal of what I've experienced. Some of the ghosts' sound was done by me because I knew how to accurately replicate the sound. Therefore, playing _Fatal Frame_ is like experiencing the real poltergeist."
 
 #### Context:
-In this blog excerpt, Shibata discusses influences that go into the _Fatal Frame_ series.  He draws from his dreams and personal encounters with the supernatural hoping to give this experience to the player.
+In this blog excerpt, Shibata discusses influences that go into the _Fatal Frame_ series.  He draws from his dreams and personal encounters with the supernatural hoping to give similar experiences to the player.
 
 This excerpt is taken from a series of blog posts, called "Developer Diaries" written ahead of the release of _Fatal Frame III: The Tormented_ for North America in 2005 on the PlayStation 2 platform.  These posts are intended to give insight into the process of developing a given game, as well as act as a source of PR for the game's release. 
 
@@ -30,4 +30,8 @@ This excerpt is taken from a series of blog posts, called "Developer Diaries" wr
 
 ---
 #### Links
-1. [[Bibliography_Collection_Fatal Frame]]
+1. [[Bibliography-Collection-Fatal Frame]]
+2. [[2005-Abandoned_Japanese_House]]
+3. [[2005-Dead_People_Are_Watching_the_Game]]
+4. [[2005-Holly_and_a_Snake]]
+5. [[2005-Like_Experiencing_the_Real_Poltergeist]]

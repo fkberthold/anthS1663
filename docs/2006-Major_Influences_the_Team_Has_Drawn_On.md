@@ -12,25 +12,29 @@ Tags:
 Also, the Manga _Yokai (Monster) Hunter_ series, by Daijiro Moroboshi, inspired me a lot. This Manga deals with themes of Japanese folklore. In this, the hero begins to see another world (the world after death) by accident while he is investigating Japanese folklore. The Manga perfectly re-created typical Japanese images of this netherworld."
 
 #### Context:
-In this interview excerpt, Shibata describes some of the influences drawn on for _Fatal Frame: The Tormented_.  Alongside the movie _Ring_, he draws form a manga series which also makes use of Japanese folklore.
+In this interview excerpt, Shibata describes some of the influences drawn on for _Fatal Frame: The Tormented_.  Alongside the Japanese movie _Ring_, he also draws from a manga series which makes use of Japanese folklore.
 
-This excerpt is taken from a Q&A released by _Take Two_ which Stuart then edited and copied into an article he posted on _The Guardian_.  This was published ahead of the release of _Fatal Frame: The Tormented_, the third game in the _Fatal Frame_ series.
+This excerpt is taken from a Q&A originally released by _Take Two_ from which Stuart then edited and copied into an article he posted for _The Guardian_.  This article was published ahead of the release of _Fatal Frame: The Tormented_ to North America on the PlayStation 2 platform.
 
 
 ----
 #### Source Information
 **Original Source Citation:**
-	Stuart, Keith. "'I call it, 'Subtracting horror.'' Project Zero Creator Speaks..." _The Guardian_. February 7, 2006.  https://www.theguardian.com/technology/gamesblog/2006/feb/07/post13
+	Stuart, Keith. "'I call it, 'Subtracting horror.'' Project Zero Creator Speaks..." _The Guardian_. February 7, 2006.  https://www.theguardian.com/technology/gamesblog/2006/feb/07/post13.
 
 | | |
 | --- | --- |
-Source Type:  interview
-Source URL:  https://www.theguardian.com/technology/gamesblog/2006/feb/07/post13
-Date Published:  2006-02-07
-Date Collected:  2023-07-28
-Associated File Name:  Stuart-2006-I Call It subtracting Horror.pdf
+| **Source Type:** | interview |
+| **Source URL:** | https://www.theguardian.com/technology/gamesblog/2006/feb/07/post13 |
+| **Date Published:** | 2006-02-07 |
+| **Date Collected:** | 2023-07-28 |
+| **Associated File Name:** | Stuart-2006-I Call It subtracting Horror.pdf |
 
 ---
 #### Links
-1. [[Bibliography_Collection_Fatal Frame]]
+1. [[Bibliography-Collection-Fatal Frame]]
 2. [[2006-Condensed_Essence_of_Japanese_Horror]]
+3. [[2006-Dream_Buyer_and_Baku]]
+4. [[2006-Ghost_Who_Had_a_Damaged_Face]]
+5. [[2006-Recreate_This_Fear]]
+6. [[2006-Researched_a_lot_About_Ancient_Japanese_Culture]]

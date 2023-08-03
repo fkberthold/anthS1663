@@ -22,15 +22,16 @@ This excerpt is taken from a series of blog posts, called "Developer Diaries" wr
 
 |     |     |
 | --- | --- |
-| ***Source Type:*** | blog |
-| ***Source URL:*** | http://ps2.gamespy.com/playstation-2/fatal-frame-3/664167p3.html |
-| ***Date Published:*** |  2005-11-04 |
-| ***Date Collected:*** | 2023-07-31 |
+| **Source Type:** | blog |
+| **Source URL:** | http://ps2.gamespy.com/playstation-2/fatal-frame-3/664167p3.html |
+| **Date Published:** |  2005-11-04 |
+| **Date Collected:** | 2023-07-31 |
 | **Associated File Name:** | Shibata_Fatal Frame III Dev Diary 3_Part 2.pdf |
 
 ---
 #### Links
-1. [[Bibliography_Collection_Fatal Frame]]
+1. [[Bibliography-Collection-Fatal Frame]]
 2. [[2005-Like_Experiencing_the_Real_Poltergeist]]
 3. [[2005-The_Tattoo_Has_Magic_Meanings]]
 4. [[2005-Holly_and_a_Snake]]
+5. [[2005-Dead_People_Are_Watching_the_Game]]

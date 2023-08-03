@@ -12,6 +12,7 @@ In this blog excerpt, Shibata discusses the folkloric nature of a tattoo in Japa
 
 This excerpt is taken from a series of blog posts, called "Developer Diaries" written ahead of the release of _Fatal Frame III: The Tormented_ for North America in 2005 on the PlayStation 2 platform.  These posts are intended to give insight into the process of developing a given game, as well as act as a source of PR for the game's release. 
 
+
 ----
 #### Source Information
 **Original Source Citation:**
@@ -27,5 +28,8 @@ This excerpt is taken from a series of blog posts, called "Developer Diaries" wr
 
 ---
 #### Links
-1. [[Bibliography_Collection_Fatal Frame]]
+1. [[Bibliography-Collection-Fatal Frame]]
 2. [[2005-Like_Experiencing_the_Real_Poltergeist]]
+3. [[2005-Abandoned_Japanese_House]]
+4. [[2005-Dead_People_Are_Watching_the_Game]]
+5. [[2005-Holly_and_a_Snake]]
