@@ -12,10 +12,12 @@ While reading these articles, I realized this was a perfect opportunity to catal
 
 
 **Notes**
+
 1. Makoto Shibata, "Fatal Frame: Behind the Lens of the PS2 Horror Classic," _PlayStation.Blog_. May 1, 2013. https://blog.playstation.com/2013/05/01/fatal-frame-behind-the-lens-of-the-ps2-horror-classic/.
 2. Shibata, "Fatal Frame: Behind the Lens."
 
 
-**Additional References
+**Additional References**
+
 1. [[Appendix]]
 2. [[Bibliography-Collection-Fatal Frame]]
