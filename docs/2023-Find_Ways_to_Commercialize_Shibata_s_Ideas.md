@@ -34,5 +34,5 @@ This interview was done for the release of _Fatal Frame III: The Tormented_ for 
 
 ---
 #### Links
-1. [[Bibliography-Collection-Fatal Frame]]
-2. [[2005-That's_Him_The_Infamous_Guy]]
+1. [[Bibliography-Fatal Frame Collection]]
+2. [[2005-The_Infamous_Guy]]

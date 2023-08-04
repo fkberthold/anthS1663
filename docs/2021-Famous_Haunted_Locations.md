@@ -1,7 +1,7 @@
 Created: 2023-07-31 14:00
 Tags: 
 
-### Title:  Japan's Famous Haunted Locations
+### Title:  Famous Haunted Locations
 ### Folklore Type:  [[legend]], [[folkloresque]]
 
 #### Contents:
@@ -32,5 +32,5 @@ This interview was given for the remastered release of _Fatal Frame: Maiden of B
 
 ---
 #### Links
-1. [[Bibliography-Collection-Fatal Frame]]
+1. [[Bibliography-Fatal Frame Collection]]
 2. [[2021-Ghosts_I_Have_Seen_in_Real_Life]]

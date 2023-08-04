@@ -32,7 +32,7 @@ This excerpt is taken from a Q&A originally released by _Take Two_ from which St
 
 ---
 #### Links
-1. [[Bibliography-Collection-Fatal Frame]]
+1. [[Bibliography-Fatal Frame Collection]]
 2. [[2006-Condensed_Essence_of_Japanese_Horror]]
 3. [[2006-Dream_Buyer_and_Baku]]
 4. [[2006-Ghost_Who_Had_a_Damaged_Face]]

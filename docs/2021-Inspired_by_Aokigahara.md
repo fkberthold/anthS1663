@@ -29,4 +29,4 @@ This interview was done by _JP Games_ for the remastered release of _Fatal Frame
 
 ---
 #### Links
-1. [[Bibliography-Collection-Fatal Frame]]
+1. [[Bibliography-Fatal Frame Collection]]

@@ -1,7 +1,7 @@
 Created: 2023-07-28 13:55
 Tags: 
 
-### Title:  You're Being Noisy
+### Title:  You Are Being Noisy
 ### Folklore Type:  [[memorate]]
 
 ### Contents:
@@ -28,7 +28,7 @@ This blog post is written for the release of _Fatal Frame: Mask of the Lunar Ecl
 
 ---
 #### Links
-1. [[Bibliography-Collection-Fatal Frame]]
+1. [[Bibliography-Fatal Frame Collection]]
 2. [[2023-Actually_Inspired_by_Spirits]]
 3. [[2023-Hand_Held_by_a_Ghost]]
 4. [[2023-Let_the_Spirits_Emerge]]

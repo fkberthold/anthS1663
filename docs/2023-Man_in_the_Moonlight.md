@@ -31,10 +31,10 @@ This blog post is written for the release of _Fatal Frame: Mask of the Lunar Ecl
 
 ---
 #### Links
-1. [[Bibliography-Collection-Fatal Frame]]
+1. [[Bibliography-Fatal Frame Collection]]
 2. [[2023-Actually_Inspired_by_Spirits]]
 3. [[2023-Hand_Held_by_a_Ghost]]
 4. [[2023-Let_the_Spirits_Emerge]]
 5. [[2023-Repurposed_From_Bad_Dreams]]
 6. [[2023-She_Was_Singing_Them]]
-7. [[2023-You're_Being_Noisy]]
+7. [[2023-You_Are_Being_Noisy]]

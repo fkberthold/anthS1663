@@ -1,7 +1,7 @@
 Created: 2023-07-31 15:42
 Tags:
 
-### Title:  That's Him The Infamous Guy
+### Title:  The Infamous Guy
 ### Folklore Type:  [[memorate]]
 
 #### Contents:
@@ -32,5 +32,5 @@ This interview was done for the release of _Fatal Frame III: The Tormented_ for 
 
 ---
 #### Links
-1. [[Bibliography-Collection-Fatal Frame]]
+1. [[Bibliography-Fatal Frame Collection]]
 

@@ -12,7 +12,7 @@ Tags:
 #### Context:
 In this interview excerpt, Shibata discusses using the Nintendo Wii U controller as a physical representation of the Camera Obscura for the player.  The Wii U controller is a hand-held device that has a screen set in the middle, similar to hand-held gaming devices like the Nintendo Switch.  The player holds up the Wii U controller, like a camera, to take photos of the ghosts in _Fatal Frame: Maiden of Black Water_.
 
-This interview was done by _Noisy Pixel_ for the remastered release of the fifth game in the series, _Fatal Frame: Maiden of Black Water_, in 2021.  The game was originally released in 2015.
+This interview was done by _Noisy Pixel_ for the remastered release of the fifth game in the series, _Fatal Frame: Maiden of Black Water_, in 2021.  The original 2014/2015 release was a Nintendo Wii U exclusive.  The remastered edition, released in 2021, updated the game for modern consoles and the PC.
 
 ----
 #### Source Information
@@ -29,4 +29,4 @@ This interview was done by _Noisy Pixel_ for the remastered release of the fifth
 
 ---
 #### Links
-1. [[Bibliography-Collection-Fatal Frame]]
+1. [[Bibliography-Fatal Frame Collection]]

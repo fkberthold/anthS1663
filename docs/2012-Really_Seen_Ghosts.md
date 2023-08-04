@@ -1,7 +1,7 @@
 Created: 2023-07-31 14:50
 Tags: 
 
-### Title:  You've Really Seen Ghosts
+### Title:  Really Seen Ghosts
 ### Folklore Type:  [[memorate]]
 
 #### Contents:
@@ -43,4 +43,4 @@ This interview was conducted by Satoru Iwata, former Nintendo President.  This i
 
 ---
 #### Links
-1. [[Bibliography-Collection-Fatal Frame]]
+1. [[Bibliography-Fatal Frame Collection]]

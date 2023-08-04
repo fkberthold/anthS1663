@@ -28,7 +28,7 @@ This excerpt is taken from a series of blog posts, called "Developer Diaries" wr
 
 ---
 #### Links
-1. [[Bibliography-Collection-Fatal Frame]]
+1. [[Bibliography-Fatal Frame Collection]]
 2. [[2005-Like_Experiencing_the_Real_Poltergeist]]
 3. [[2005-Abandoned_Japanese_House]]
 4. [[2005-Dead_People_Are_Watching_the_Game]]

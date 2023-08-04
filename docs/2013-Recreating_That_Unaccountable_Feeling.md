@@ -32,6 +32,6 @@ This blog post was the first in a series that Shibata wrote for _PlayStation.blo
 
 ----
 #### Links
-1. [[Bibliography-Collection-Fatal Frame]]
+1. [[Bibliography-Fatal Frame Collection]]
 2. [[2013-Old_Woman_Pushing_a_Broken_Stroller]]
 3. [[2013-Shibata_Dream-My_Funeral]]

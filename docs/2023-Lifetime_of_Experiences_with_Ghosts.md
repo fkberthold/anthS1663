@@ -34,4 +34,4 @@ This excerpt comes from an article written for _Game Informer_, the digital coun
 
 ---
 #### Links
-1. [[Bibliography-Collection-Fatal Frame]]
+1. [[Bibliography-Fatal Frame Collection]]

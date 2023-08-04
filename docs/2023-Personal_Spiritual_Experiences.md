@@ -29,4 +29,4 @@ This interview was given during the remastered release of _Fatal Frame: Mask of 
 
 ---
 #### Links
-1. [[Bibliography-Collection-Fatal Frame]]
+1. [[Bibliography-Fatal Frame Collection]]

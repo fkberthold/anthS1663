@@ -28,6 +28,6 @@ This blog post was the second of three he wrote for the _PlayStation.blog_ site.
 
 ----
 #### Links
-1. [[Bibliography-Collection-Fatal Frame]]
+1. [[Bibliography-Fatal Frame Collection]]
 2. [[2013-Recreating_That_Unaccountable_Feeling]]
 

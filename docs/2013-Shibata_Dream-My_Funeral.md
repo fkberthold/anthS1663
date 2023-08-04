@@ -34,6 +34,6 @@ This blog post is the third in a series Shibata wrote for _PlayStation.blog_.  T
 
 ---
 #### Links
-1. [[Bibliography-Collection-Fatal Frame]]
+1. [[Bibliography-Fatal Frame Collection]]
 2. [[2013-Recreating_That_Unaccountable_Feeling]]
 3. [[2023-Storyline_Is_Based_on_a_Dream]]

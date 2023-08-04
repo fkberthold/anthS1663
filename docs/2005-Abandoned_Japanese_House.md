@@ -30,7 +30,7 @@ This excerpt is taken from a series of blog posts, called "Developer Diaries" wr
 
 ---
 #### Links
-1. [[Bibliography-Collection-Fatal Frame]]
+1. [[Bibliography-Fatal Frame Collection]]
 2. [[2005-Like_Experiencing_the_Real_Poltergeist]]
 3. [[2005-The_Tattoo_Has_Magic_Meanings]]
 4. [[2005-Holly_and_a_Snake]]

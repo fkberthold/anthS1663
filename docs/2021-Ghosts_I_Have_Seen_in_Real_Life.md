@@ -14,7 +14,7 @@ In addition, I go over the ghosts I have seen in real life and add the ones that
 #### Context:
 In the interview excerpt, Shibata discusses what inspirations he and his team draw on for the _Fatal Frame_ series, noting that he draws from his own personal encounters as part of the process of story development.
 
-This interview was given for the remastered release of _Fatal Frame: Maiden of Black Water_.  The original 2014/2015 release was a Nintendo Wii U exclusive.  The remastered edition, released in 2021, updated the game for modern consoles and the PC.
+This interview was done by _JP Games_ for the remastered release of _Fatal Frame: Maiden of Black Water_ in 2021.  The original 2014/2015 release was a Nintendo Wii U exclusive.  The remastered edition, released in 2021, updated the game for modern consoles and the PC.
 
 
 ----
@@ -32,5 +32,5 @@ This interview was given for the remastered release of _Fatal Frame: Maiden of B
 
 ---
 #### Links
-1. [[Bibliography-Collection-Fatal Frame]]
-2. [[2021-Japan's_Famous_Haunted_Locations]]
+1. [[Bibliography-Fatal Frame Collection]]
+2. [[2021-Famous_Haunted_Locations]]
