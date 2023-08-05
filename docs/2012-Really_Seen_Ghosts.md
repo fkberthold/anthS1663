@@ -39,7 +39,7 @@ This interview was conducted by Satoru Iwata, former Nintendo President.  This i
 | **Source URL:** | https://www.nintendo.co.uk/Iwata-Asks/Iwata-Asks-Project-Zero-2-Wii-Edition/Iwata-Asks-Project-Zero-2-Wii-Edition/2-I-ve-Seen-Ghosts-/2-I-ve-Seen-Ghosts--218325.html |
 | **Date Published:** | 2012-04-04 |
 | **Date Collected:** | 2023-07-31 |
-| **Associated File Name:** | Kikuchi_Shibata-2012-Iwata Asks_Project Zero 2 Wii Edition_Part 2 |
+| **Associated File Name:** | Kikuchi_Shibata-2012-Iwata Asks_Project Zero 2 Wii Edition_Part 2.pdf |
 
 ---
 #### Links

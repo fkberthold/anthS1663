@@ -25,7 +25,7 @@ This interview was done by _JP Games_ for the remastered release of _Fatal Frame
 | **Source URL:** | https://jpgames.de/2021/10/interview-with-makoto-shibata-about-fatal-frame-maiden-of-black-water/ |
 | **Date Published:** | 2021-10-22 |
 | **Date Collected:** | 2023-07-28 |
-| **Associated File Name:** | Shibata-2021-Interview with Makoto Shibata about Fatal Frame Maiden of Black Water |
+| **Associated File Name:** | Shibata-2021-Interview with Makoto Shibata about Fatal Frame Maiden of Black Water.pdf |
 
 ---
 #### Links

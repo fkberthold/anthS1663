@@ -27,7 +27,7 @@ This blog post is written for the release of _Fatal Frame: Mask of the Lunar Ecl
 | **Source URL:** | https://news.xbox.com/en-us/2023/03/09/fatal-frame-mask-lunar-eclipse-ghost-stories-real-life/ |
 | **Date Published:** | 2023-03-09 |
 | **Date Collected:** | 2023-07-28 |
-| **Associated File Name:** | Shibata-2023-The Real-Life Hauntings that Inspired Fatal Frame |
+| **Associated File Name:** | Shibata-2023-The Real-Life Hauntings that Inspired Fatal Frame.pdf |
 
 ---
 #### Links

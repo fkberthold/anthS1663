@@ -1,14 +1,3 @@
-
-
-Electronic Voice Phenomena (EVP)
-
-
-Camera Obscura
-
-
-Cut Scene
-
-
 #### _Fatal Frame_ Series:
 
 ##### _Fatal Frame_:
@@ -46,3 +35,11 @@ Cut Scene
 
 1. Original release to North America in 2015 for the Nintendo Wii U console.  The remastered release for modern consoles and the PC came out in 2021.
 2. For further information, see _Tecmo America's_ official game website:  [_Fatal Frame: Maiden of Black Water](https://www.koeitecmoamerica.com/fatalframe/mobw/)
+
+
+
+
+
+
+
+

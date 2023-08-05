@@ -1,5 +1,10 @@
 # "Recreating That \[Unaccountable] Feeling:" The Folklore & Folkloresque of _Fatal Frame_
 
+Jennifer Gonsalves
+Final Project for _ANTH S-1663:  The Supernatural in the Modern World_
+Prof. Lowell Brower
+August 4, 2023
+
 #### Introduction
 For my final project for _ANTH S-1663 The Supernatural in the Modern World_, I chose to focus on one of my personal academic passions: digital worlds, or more specifically the cultures/communities and folklore that emerges from digital worlds.  As the topic of this class focused on supernatural folklore, I chose to focus on the world created in the _Fatal Frame_ series.
 
